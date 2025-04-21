@@ -1,7 +1,7 @@
 # 🎯 CursorFollower Plugin
 
-Ein Discord Vencord Plugin, das deinem Mauszeiger einen... ähm... sehr besonderen Pfeil folgen lässt.  
-Ideal, wenn du deiner Maus ein bisschen Persönlichkeit verpassen willst. 😉
+A Discord Vencord plugin that makes your cursor follow... well, a very special arrow.  
+Perfect if you want to add a bit of personality to your mouse. 😉
 
 > 💡 *Made by MisterXDEV12345*
 
@@ -9,13 +9,13 @@ Ideal, wenn du deiner Maus ein bisschen Persönlichkeit verpassen willst. 😉
 
 ## 🔧 Features
 
-- 🐭 Follower-Image (standardmäßig ein lustiger Pfeil 🍆)
-- 🌀 Smooth Rotation & Bewegung
-- 🎨 Einfach anpassbar – ändere einfach die Bild-URL
+- 🐭 Follower Image (default is a funny arrow 🍆)
+- 🌀 Smooth rotation & movement
+- 🎨 Easily customizable – just change the image URL
 
 ---
 
-## 📸 Vorschau
+## 📸 Preview
 
 ![Preview](https://cdn-icons-png.flaticon.com/512/6830/6830721.png)
 
@@ -27,4 +27,3 @@ Ideal, wenn du deiner Maus ein bisschen Persönlichkeit verpassen willst. 😉
 cd C:\Users\youruser\location\Vencord\src\plugins
 git clone https://github.com/MisterXDev12345/CursorFollower
 pnpm build
-
