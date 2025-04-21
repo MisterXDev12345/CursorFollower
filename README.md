@@ -9,15 +9,15 @@ Perfect if you want to add a bit of personality to your mouse. 😉
 
 ## 🔧 Features
 
-- 🐭 Follower Image (default is a funny arrow 🍆)
+- 🐭 Follower Image (default is a funny arrow)
 - 🌀 Smooth rotation & movement
-- 🎨 Easily customizable – just change the image URL
+- 🎨 Easily customizable – just change the image URL (must be facing down)
 
 ---
 
 ## 📸 Preview
 
-![Preview](https://cdn-icons-png.flaticon.com/512/6830/6830721.png)
+![Preview]([https://cdn-icons-png.flaticon.com/512/6830/6830721.png](https://images.emojiterra.com/microsoft/fluent-emoji/15.1/512px/1f447_color.png))
 
 ---
 
