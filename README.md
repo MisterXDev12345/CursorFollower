@@ -25,4 +25,5 @@ Ideal, wenn du deiner Maus ein bisschen Persönlichkeit verpassen willst. 😉
 
 ```bash
 git clone https://github.com/MisterXDev12345/CursorFollower
+cd C:\Users\youruser\location\Vencord\src\plugins
 
