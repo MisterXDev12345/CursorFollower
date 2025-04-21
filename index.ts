@@ -8,7 +8,7 @@ export default definePlugin({
     start() {
         const img = document.createElement("img");
         img.id = "arrow-follower";
-        img.src = "https://cdn-icons-png.flaticon.com/512/6830/6830721.png";
+        img.src = "https://images.emojiterra.com/microsoft/fluent-emoji/15.1/512px/1f447_color.png";
         img.style.position = "fixed";
         img.style.pointerEvents = "none";
         img.style.width = "64px";
