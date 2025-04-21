@@ -3,7 +3,7 @@
 Ein Discord Vencord Plugin, das deinem Mauszeiger einen... ähm... sehr besonderen Pfeil folgen lässt.  
 Ideal, wenn du deiner Maus ein bisschen Persönlichkeit verpassen willst. 😉
 
-> 💡 *Made by MisterX12345*
+> 💡 *Made by MisterXDEV12345*
 
 ---
 
@@ -24,5 +24,5 @@ Ideal, wenn du deiner Maus ein bisschen Persönlichkeit verpassen willst. 😉
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/dein-username/Followcursor
+git clone https://github.com/MisterXDev12345/CursorFollower
 
