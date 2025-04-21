@@ -2,7 +2,7 @@ import definePlugin from "@utils/types";
 
 export default definePlugin({
     name: "CursorFollower",
-    description: "Ein folgender penis! Made by MisterX12345",
+    description: "A following Penis! Made by MisterX12345",
     authors: ["MISTERX"],
 
     start() {
